@@ -1,2 +1,2 @@
 # Ignores all contents in the Data directory
-Image_Classification/Data/*
+Data/
