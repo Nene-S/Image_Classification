@@ -1,7 +1,7 @@
 
-# Image Classification in PyTorch
+# Infant Emotion Recognition.
 
-This repository contains code for building and training a Convolutional Neural Network (CNN) from scratch to classify images in the **BabyFace** dataset. The project demonstrates deep learning techniques using PyTorch, including dataset preprocessing, model training, evaluation, and inference.
+This repository contains code for building and training a Convolutional Neural Network (CNN) and a Residual Neural Network(ResNet) from scratch, to classify images in the **BabyFace** dataset. The project demonstrates deep learning techniques using PyTorch, including dataset preprocessing, model training, evaluation, and inference.
 
 ## Prerequisites
 
